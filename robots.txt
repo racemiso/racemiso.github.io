@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://racemiso.github.io/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/app/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/assets/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/css/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/data/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/includes/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/item/sitemap.racemiso.gz
+Sitemap: https://racemiso.github.io/src/sitemap.racemiso.gz
